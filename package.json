@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/usman-tahir/react-redux-sample/issues"
   },
-  "homepage": "https://github.com/usman-tahir/react-redux-sample#readme"
+  "homepage": "https://github.com/usman-tahir/react-redux-sample#readme",
+  "dependencies": {
+    "react-redux": "^5.0.6",
+    "redux": "^3.7.2"
+  },
+  "devDependencies": {
+    "redux-devtools": "^3.4.0"
+  }
 }
